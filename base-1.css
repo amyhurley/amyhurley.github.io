@@ -3,11 +3,19 @@
 
 /* ==== HEADINGS ==== */
 
+/* ==== PAGE WIDTH ==== */
+
+body {
+    padding-left: 20%;
+    padding-right: 20%
+ }
+
 h1 {
-    font-family: serif;
+    font-family: sans-serif;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 80px;
     letter-spacing: -1px;
+    color: aqua;
 }
 
 
@@ -79,4 +87,12 @@ h3 {
       margin-top: 5%;
       margin-bottom: 1%;
    }
-}
+}/* ==== PARAGRAPHS ==== */
+
+p {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.2;
+    margin-bottom: 12px;
+ }
